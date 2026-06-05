@@ -91,7 +91,18 @@ Transformer는 RNN처럼 순서대로 입력을 처리하지 않기 때문에 �
 
 <img width="811" height="419" alt="image" src="https://github.com/user-attachments/assets/d48c54a9-e86c-48fa-b6ce-90ad2e80bf3a" /><br>
 <img width="419" height="404" alt="image" src="https://github.com/user-attachments/assets/a427b101-824b-4f12-9643-52cf274ba9bc" /><br>
-
-
-
+<br>
+<br>
+TinyStories라는 다른 데이터를 이용하여 문자 단위 언어모델 만들기<br>
+<br>
+<br>
+<img width="1101" height="696" alt="image" src="https://github.com/user-attachments/assets/30ce60dc-e5d9-4b3e-a2dc-b198b727556e" /><br>
+<br>
+<img width="1740" height="170" alt="image" src="https://github.com/user-attachments/assets/c7c9226f-39c8-499d-9208-62cd6a2819dd" /><br>
+<br>
+<img width="1039" height="603" alt="image" src="https://github.com/user-attachments/assets/c9dece16-9128-485a-8f79-8c27c80f84d0" /><br>
+<br>
+<img width="1703" height="757" alt="image" src="https://github.com/user-attachments/assets/4e1f6444-cb83-47c6-a3ca-bf4a669c7e5c" /><br>
+<br>
+<img width="1602" height="571" alt="image" src="https://github.com/user-attachments/assets/5ce78080-50a0-4e8f-a2a7-b8126e188545" /><br>
 
