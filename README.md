@@ -119,4 +119,5 @@ TinyStories라는 다른 데이터를 이용하여 문자 단위 언어모델 �
 <img width="1419" height="702" alt="image" src="https://github.com/user-attachments/assets/c1f04db8-8277-4d7d-aeab-cb688dbc1200" />
 
 
+<img width="1403" height="745" alt="image" src="https://github.com/user-attachments/assets/5e4eccc7-bbcc-4dea-86c4-750310f92e83" />
 
