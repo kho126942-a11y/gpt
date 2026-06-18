@@ -93,6 +93,8 @@ Transformer는 RNN처럼 순서대로 입력을 처리하지 않기 때문에 �
 <img width="419" height="404" alt="image" src="https://github.com/user-attachments/assets/a427b101-824b-4f12-9643-52cf274ba9bc" /><br>
 <br>
 <br>
+<br>
+<br>
 TinyStories라는 다른 데이터를 이용하여 문자 단위 언어모델 만들기<br>
 <br>
 <br>
@@ -105,18 +107,21 @@ TinyStories라는 다른 데이터를 이용하여 문자 단위 언어모델 �
 <img width="1703" height="757" alt="image" src="https://github.com/user-attachments/assets/4e1f6444-cb83-47c6-a3ca-bf4a669c7e5c" /><br>
 <br>
 <img width="1602" height="571" alt="image" src="https://github.com/user-attachments/assets/5ce78080-50a0-4e8f-a2a7-b8126e188545" /><br>
-
-
+<br>
+<br>
+<br>
+<br>
 전래동화를 이용해 생성해보기
-
+<br>
 <img width="1452" height="781" alt="image" src="https://github.com/user-attachments/assets/08c6b90e-727d-40c1-857f-c9d237b15262" />
-데이터가 작고 epoch가 많아서 모델이 창작하는 게 아니라 원문을 외워버렸다.
-
+데이터가 작고 epoch가 많아서 모델이 창작하는 게 아니라 원문을 외워버렸다.<br>
+<br>
 <img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/8bf29e33-e8d9-4514-a897-f433d0dbf464" />
-
-
-
-<img width="1419" height="702" alt="image" src="https://github.com/user-attachments/assets/c1f04db8-8277-4d7d-aeab-cb688dbc1200" />
+<br>
+<br>
+<br>
+기존 데이터 27,000자에서 120,000자로 늘렸다.<br>
+<br>
 
 
 <img width="1403" height="745" alt="image" src="https://github.com/user-attachments/assets/5e4eccc7-bbcc-4dea-86c4-750310f92e83" />
