@@ -105,17 +105,4 @@ TinyStories라는 다른 데이터를 이용하여 문자 단위 언어모델 �
 <br>
 <br>
 전래동화를 이용해 생성해보기
-<br>
-<img width="1452" height="781" alt="image" src="https://github.com/user-attachments/assets/08c6b90e-727d-40c1-857f-c9d237b15262" />
-데이터가 작고 epoch가 많아서 모델이 창작하는 게 아니라 원문을 외워버렸다.<br>
-<br>
-<img width="1367" height="755" alt="image" src="https://github.com/user-attachments/assets/8bf29e33-e8d9-4514-a897-f433d0dbf464" />
-<br>
-<br>
-<br>
-기존 데이터 27,000자에서 120,000자로 늘렸다.<br>
-<br>
-
-
-<img width="1403" height="745" alt="image" src="https://github.com/user-attachments/assets/5e4eccc7-bbcc-4dea-86c4-750310f92e83" />
-
+<img width="1393" height="290" alt="image" src="https://github.com/user-attachments/assets/1f54e45e-0475-4518-9f4a-6cabed20034e" />
